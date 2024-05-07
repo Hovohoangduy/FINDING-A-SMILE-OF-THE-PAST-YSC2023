@@ -13,3 +13,8 @@ and compare it with other research methods.
 
 Achieved Outstanding Poster Award
 ISBN: 978-604-920-195-0. YSC5F.026
+
+### RESULTS
+![](https://github.com/Hovohoangduy/YSC2023/blob/main/vid_0011_latest.gif)
+![](https://github.com/Hovohoangduy/YSC2023/blob/main/vid_0014_latest.gif)
+![](https://github.com/Hovohoangduy/YSC2023/blob/main/vid_0016_latest.gif)
