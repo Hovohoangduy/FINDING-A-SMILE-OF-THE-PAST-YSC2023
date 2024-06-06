@@ -15,7 +15,7 @@ Achieved Outstanding Poster Award
 ISBN: 978-604-920-195-0 (YSC5F.026)
 
 ### Paper
-![](https://github.com/Hovohoangduy/YSC2023/blob/main/AHAT_cGAN_DIFF Paper.pdf)
+https://github.com/Hovohoangduy/YSC2023/blob/main](https://github.com/Hovohoangduy/FINDING-A-SMILE-OF-THE-PAST-YSC2023/AHAT_cGAN_DIFF Paper.pdf
 
 ### RESULTS
 ![](https://github.com/Hovohoangduy/YSC2023/blob/main/vid_0011_latest.gif)
