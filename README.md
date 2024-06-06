@@ -14,6 +14,9 @@ and compare it with other research methods.
 Achieved Outstanding Poster Award
 ISBN: 978-604-920-195-0 (YSC5F.026)
 
+### Creating a Video from Facial Image Using Conditional Generative Adversarial Network
+![Paper](Creating a Video from Facial Image Using Conditional Generative Adversarial Network-revise.pdf)
+
 ### RESULTS
 ![](https://github.com/Hovohoangduy/YSC2023/blob/main/vid_0011_latest.gif)
 ![](https://github.com/Hovohoangduy/YSC2023/blob/main/vid_0014_latest.gif)
