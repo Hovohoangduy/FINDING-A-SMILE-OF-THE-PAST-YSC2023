@@ -12,7 +12,10 @@ methods. We will evaluate this method on CK-Mixed datasets
 and compare it with other research methods.
 
 Achieved Outstanding Poster Award
-ISBN: 978-604-920-195-0. YSC5F.026
+ISBN: 978-604-920-195-0 (YSC5F.026)
+
+### Paper
+![](https://github.com/Hovohoangduy/YSC2023/blob/main/AHAT_cGAN_DIFF Paper.pdf)
 
 ### RESULTS
 ![](https://github.com/Hovohoangduy/YSC2023/blob/main/vid_0011_latest.gif)
