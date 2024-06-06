@@ -14,9 +14,6 @@ and compare it with other research methods.
 Achieved Outstanding Poster Award
 ISBN: 978-604-920-195-0 (YSC5F.026)
 
-### Paper
-[A Novel HAT-cGAN-DIFF Model for Generating a High- Quality Video from Facial Image paper](https://github.com/Hovohoangduy/FINDING-A-SMILE-OF-THE-PAST-YSC2023/blob/main/AHAT_cGAN_DIFF%20Paper.pdf)
-
 ### RESULTS
 ![](https://github.com/Hovohoangduy/YSC2023/blob/main/vid_0011_latest.gif)
 ![](https://github.com/Hovohoangduy/YSC2023/blob/main/vid_0014_latest.gif)
